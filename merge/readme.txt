@@ -1,0 +1,1 @@
+在 Linux 环境下，执行 gcc merge.c -o merge ，生成 merge 可执行文件
