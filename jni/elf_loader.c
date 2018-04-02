@@ -10,7 +10,7 @@
 #include "solist.h"
 #include <android/log.h>
 
-#define LOG_TAG "white_knignt"
+#define LOG_TAG "sean"
 #define DL_ERR(...) __android_log_print(ANDROID_LOG_ERROR, LOG_TAG, __VA_ARGS__)
 #define PAGE_START(x)  ((x) & PAGE_MASK)//
 #define PAGE_END(x)    PAGE_START((x) + (PAGE_SIZE-1))
